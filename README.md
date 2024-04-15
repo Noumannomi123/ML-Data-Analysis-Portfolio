@@ -1,7 +1,7 @@
 # ML-Data Analysis Portfolio
 
 ## Introduction
-Welcome to my ML-Data Analysis Portfolio! I'm Nouman, a passionate data enthusiast with a keen interest in machine learning and data science. This portfolio showcases some of the projects I have worked on to analyze, visualize, and model trainings on various datasets.
+Welcome to my ML-Data Analysis Portfolio! I'm Nouman, a passionate data enthusiast with a keen interest in machine learning and data science. This portfolio showcases some of the projects I have worked on to analyze, visualize, and train models on various datasets like Iris Dataset and famous Titanic Dataset etc.
 
 ## Author of the Projects
 The original author of the project resources is Jose Portilla at Pierian Training. These Project and Exercise files are from the course "Python for Data Science and Machine Learning Bootcamp" available on Udemy.
@@ -50,7 +50,40 @@ Here are some visualizations from the projects:
 
 - **Screenshot 12:**
   ![Screenshot 12](Screenshots/2024-04-15%20(15).png)
+
+## Machine Learning Models training
+Here are some model trainings:
+
+- **Screenshot 1:**
+  ![Screenshot 12](Screenshots/2024-04-15%20(16).png)
   
+- **Screenshot 2:**
+  ![Screenshot 12](Screenshots/2024-04-15%20(17).png)
+
+- **Screenshot 3:**
+  ![Screenshot 12](Screenshots/2024-04-15%20(18).png)
+
+## Natural Language Processing
+Here are some NLP model trainings
+
+- **Screenshot 1:**
+  ![Screenshot 12](Screenshots/2024-04-15%20(19).png)
+
+- **Screenshot 1:**
+  ![Screenshot 12](Screenshots/2024-04-15%20(20).png)
+
+- **Screenshot 1:**
+  ![Screenshot 12](Screenshots/2024-04-15%20(21).png)
+
+- **Screenshot 1:**
+  ![Screenshot 12](Screenshots/2024-04-15%20(22).png)
+
+- **Screenshot 1:**
+  ![Screenshot 12](Screenshots/2024-04-15%20(23).png)
+
+- **Screenshot 1:**
+  ![Screenshot 12](Screenshots/2024-04-15%20(24).png)
+
 ## Challenges Faced
 During the projects, I encountered several challenges that helped me grow as a data analyst and machine learning practitioner:
 
@@ -69,16 +102,63 @@ During the projects, I encountered several challenges that helped me grow as a d
 Despite these challenges, I embraced them as opportunities for learning and skill development. Through persistence, experimentation, and a willingness to explore new approaches, I was able to overcome these obstacles and achieve meaningful insights from the data.
 
 ## Lessons Learned
-Share insights, new skills, or techniques learned from each project.
+
+Through my journey in data analysis and machine learning, I have gained valuable insights and skills that have enhanced my understanding and proficiency in this field:
+
+### Data Analysis:
+- **Feature Importance and Selection:**
+  I learned the importance of feature selection in model performance. Through techniques like correlation analysis and feature importance ranking, I discovered the impact of each variable on the predictive power of the models.
+
+- **Handling Missing Data:**
+  Dealing with missing data was a significant aspect of my projects. I explored methods such as imputation, deletion, to handle missing values effectively.
+
+- **Exploratory Data Analysis (EDA):**
+  EDA played a crucial role in understanding the underlying patterns and trends in the datasets. I utilized various visualization tools and statistical techniques to uncover insights and formulate hypotheses for further analysis.
+
+### Machine Learning:
+- **Model Evaluation and Tuning:**
+  Evaluating model performance and fine-tuning hyperparameters was a key learning point. Techniques like cross-validation, grid search, and learning curves helped me optimize models for better accuracy and generalization.
+
+- **Ensemble Learning:**
+  Exploring ensemble learning methods such as Random Forests provided a deeper understanding of combining multiple models for improved predictions and robustness.
+
+### Natural Language Processing (NLP):
+- **Text Preprocessing Techniques:**
+  I delved into various text preprocessing techniques such as tokenization and stopword removal to clean and prepare textual data for analysis.
+
+- **Understanding TF-IDF**
+  I gained insights into TF-IDF, a numerical statistic that reflects the importance of a word in a document relative to a collection of documents. TF-IDF considers both the frequency of a term in a document (term frequency) and its rarity across all documents (inverse document frequency), helping to identify key terms and reduce the impact of common words.
+
+### Overall Skills and Practices:
+- **Effective Communication of Results:**
+  I honed my skills in presenting complex analyses and model results in a clear and concise manner. Creating visualizations and reports that convey insights to non-technical stakeholders became an integral part of my projects.
+
+- **Iterative Approach to Problem-Solving:**
+  Embracing an iterative approach, I learned the importance of revisiting and refining models based on feedback and new insights. This agile mindset enabled me to continuously improve and iterate upon my analyses.
+
+- **Continuous Learning and Exploration:**
+  Above all, I realized the ever-evolving nature of data science and machine learning. The projects fueled my curiosity, encouraging me to explore new algorithms, libraries, and techniques to stay updated with the latest advancements in the field.
+
+These lessons have not only enriched my technical skills but also instilled in me a deeper appreciation for the power of data-driven decision-making. I look forward to applying these learnings in future projects and contributing to the exciting developments in the world of data science.
 
 ## Future Work
-Outline future improvements or extensions to the projects.
+
+In the future, I plan to:
+
+- **Sentiment Analysis Project:**
+  Undertake a project in sentiment analysis by creating my own dataset through Wweb Scraping and then to analyze social media comments using NLP.
+
+- **Deep Learning with TensorFlow:**
+  Delve into deep learning concepts and frameworks, potentially including TensorFlow and Keras, for various applications.
+
+- **Explore Big Data Technologies:**
+  Learn Big Data frameworks such as Apache Spark to analyze large-scale datasets efficiently.
+
+These endeavors reflect my commitment to advancing my skills in machine learning, deep learning, and big data analytics, enabling me to tackle complex data challenges with confidence.
 
 ## Contact Information
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
 - GitHub: [Your GitHub Profile](https://github.com/yourusername)
-- Portfolio Website: [Your Portfolio Website](https://www.yourportfolio.com)
 
 ## Acknowledgements
 - Thanks to Jose Portilla at Pierian Training for the course materials.
-- Special thanks to [Name of Mentor/Contributor] for their guidance and support.
