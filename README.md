@@ -157,8 +157,8 @@ In the future, I plan to:
 These endeavors reflect my commitment to advancing my skills in machine learning, deep learning, and big data analytics, enabling me to tackle complex data challenges with confidence.
 
 ## Contact Information
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- LinkedIn: (https://www.linkedin.com/in/nouman-ahmad-6094b92b5)
+- GitHub: (https://github.com/Noumannomi123)
 
 ## Acknowledgements
 - Thanks to Jose Portilla at Pierian Training for the course materials.
