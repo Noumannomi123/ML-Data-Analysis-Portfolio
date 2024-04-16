@@ -4,7 +4,7 @@
 Welcome to my ML-Data Analysis Portfolio! I'm Nouman, a passionate data enthusiast with a keen interest in machine learning and data science. This portfolio showcases some of the projects I have worked on to analyze, visualize, and train models on various datasets like Iris Dataset and famous Titanic Dataset etc.
 
 ## Author of the Projects
-The original author of the project resources is Jose Portilla at Pierian Training. These Project and Exercise files are from the course "Python for Data Science and Machine Learning Bootcamp" available on Udemy.
+The original author of the project resources is Jose Portilla at Pierian Training. These Project and Exercise files are from the course "Python for Data Science and Machine Learning Bootcamp" available on [Udemy](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/?couponCode=UPGRADE02223).
 
 ## Technologies Used
 - Python (anaconda distribution)
