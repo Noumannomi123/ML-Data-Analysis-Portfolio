@@ -1,4 +1,4 @@
-# ML-Data Analysis Portfolio
+# Machine-Learning-Data-Science-Portfolio
 
 ## Introduction
 Welcome to my ML-Data Analysis Portfolio! I'm Nouman, a passionate data enthusiast with a keen interest in machine learning and data science. This portfolio showcases some of the projects I have worked on to analyze, visualize, and train models on various datasets like Iris Dataset and famous Titanic Dataset etc.
