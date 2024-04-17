@@ -159,6 +159,7 @@ These endeavors reflect my commitment to advancing my skills in machine learning
 ## Contact Information
 - [LinkedIn](https://www.linkedin.com/in/nouman-ahmad-6094b92b5)
 - [Github](https://github.com/Noumannomi123)
-- [Email](nokaphone123@gmail.com)
+- Email: nokaphone123@gmail.com
+- 
 ## Acknowledgements
 - Thanks to Jose Portilla at Pierian Training for the course materials.
