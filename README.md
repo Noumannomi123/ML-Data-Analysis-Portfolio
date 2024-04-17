@@ -69,19 +69,19 @@ Here are some NLP model trainings
 - **Screenshot 1:**
   ![Screenshot 12](Screenshots/2024-04-15%20(19).png)
 
-- **Screenshot 1:**
+- **Screenshot 2:**
   ![Screenshot 12](Screenshots/2024-04-15%20(20).png)
 
-- **Screenshot 1:**
+- **Screenshot 3:**
   ![Screenshot 12](Screenshots/2024-04-15%20(21).png)
 
-- **Screenshot 1:**
+- **Screenshot 4:**
   ![Screenshot 12](Screenshots/2024-04-15%20(22).png)
 
-- **Screenshot 1:**
+- **Screenshot 5:**
   ![Screenshot 12](Screenshots/2024-04-15%20(23).png)
 
-- **Screenshot 1:**
+- **Screenshot 6:**
   ![Screenshot 12](Screenshots/2024-04-15%20(24).png)
 
 ## Challenges Faced
